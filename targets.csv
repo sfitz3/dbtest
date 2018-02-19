@@ -1,0 +1,4 @@
+system,client,auth,core,object,admin
+prod,5747004,HBAETeMpu3Hn9nmQgD9dtnaMQtWqGfFG,https://secure.ariasystems.net/api/ws/api_ws_class_dispatcher.php,https://secure.ariasystems.net/api/AriaQuery/objects.php,https://admintools.ariasystems.net/index.php/Dispatcher/index
+stage,4934683,DtcWUTxMYSySytSMtAerN3H67be5mH5n,https://secure.future.stage.ariasystems.net/api/ws/api_ws_class_dispatcher.php,https://secure.future.stage.ariasystems.net/api/AriaQuery/objects.php,https://api.future.stage.ariasystems.net/AdminTools.php/Dispatcher
+dev,4945899,6u4NWJwtNb5mjHfG3F6SM7BmmfMfuv3t,https://secure.future.stage.ariasystems.net/api/ws/api_ws_class_dispatcher.php,https://secure.future.stage.ariasystems.net/api/AriaQuery/objects.php,https://api.future.stage.ariasystems.net/AdminTools.php/Dispatcher

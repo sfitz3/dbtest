@@ -1,0 +1,1 @@
+accountType|accountNumber|seniorAccountNumber|invoice_no|bill_date|debit|credit
